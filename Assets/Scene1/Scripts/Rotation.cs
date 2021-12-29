@@ -60,4 +60,6 @@ public class Rotation : MonoBehaviour
             return 1;
         }
     }
+
+    //or bta dost
 }
